@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Vitorcd20/Vitorcd20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Vitor Vieira
 
-Here are some ideas to get you started:
+💻 Full Stack Developer | React • Java • Node.js
+📍 Brazil (Remote / Hybrid)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+I'm a Full Stack Developer with 2.5+ years of experience building and maintaining production systems.
+
+I specialize in:
+
+⚛️ Modern Front-end development with React & TypeScript
+
+☕ Robust Back-end development with Java (Spring Boot) and Node.js
+
+🗄️ Working with relational databases and scalable APIs
+
+🧼 Writing clean, maintainable, and performant code
+
+I enjoy solving complex problems, improving system performance, and building scalable applications.
