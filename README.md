@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-Full Stack Developer with **2.5+ years of experience** building and maintaining production systems.
+Full Stack Developer with **3.5+ years of experience** building and maintaining production systems.
 
 I specialize in:
 
